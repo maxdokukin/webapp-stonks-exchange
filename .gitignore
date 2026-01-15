@@ -19,3 +19,4 @@ frontend/src/firbaseconfig.js
 /frontend/src/firbaseconfig.js
 /frontend/src/firebase-adminsdk.json
 .idea/
+.venv/
